@@ -1,1 +1,1 @@
-# klipper-esp8266-monitor
+# Printer Monitor (Klipper 3D Printer Monitor)
